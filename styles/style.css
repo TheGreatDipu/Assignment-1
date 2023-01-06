@@ -62,8 +62,12 @@ span {
 
 .failure-container {
     display: flex;
+    justify-content: space-between;
 }
 
+.failure-container img {
+    margin: 130px 152px 130px 50px;
+}
 
 .failure-title {
     width: 288px;
