@@ -62,10 +62,6 @@ span {
 
 .failure-container {
     display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 130px;
-    margin-left: 50px;
 }
 
 .failure-container img {
